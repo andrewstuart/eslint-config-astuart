@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-unicon",
+  "version": "0.0.1",
+  "description": "An eslint configuration for the Unicon UX group",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewstuart/eslint-config-unicon.git"
+  },
+  "keywords": [
+    "eslint",
+    "unicon",
+    "lint",
+    "angular"
+  ],
+  "author": "Andrew Stuart <andrew.stuart2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewstuart/eslint-config-unicon/issues"
+  },
+  "homepage": "https://github.com/andrewstuart/eslint-config-unicon#readme"
+}
