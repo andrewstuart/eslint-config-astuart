@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/andrewstuart/eslint-config-unicon/issues"
   },
-  "homepage": "https://github.com/andrewstuart/eslint-config-unicon#readme"
+  "homepage": "https://github.com/andrewstuart/eslint-config-unicon#readme",
+  "dependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-google": "^0.3.0",
+    "eslint-plugin-angular": "^0.15.0"
+  }
 }
